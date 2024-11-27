@@ -1,10 +1,12 @@
-## Trigger
+## Customize
+edit .gs file according to the comments. Rows, Columns, and more.
 
-Function
+## Trigger
+* Function<br>
     fetchCellCoord
-Run on Deploy
+* Run on Deploy<br>
     Head
-Source
+* Source<br>
     Spreadsheet
-Event Type
+* Event Type<br>
     Edit
