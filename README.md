@@ -1,5 +1,5 @@
 ## Customize
-edit .gs file according to the comments. Rows, Columns, and more.
+edit .gs file according to the comments. Rows, Columns, and more.<br>
 .gsファイルの中身をコメントに沿って編集するべし。
 
 ## Trigger
@@ -12,5 +12,5 @@ edit .gs file according to the comments. Rows, Columns, and more.
 * Event Type<br>
     Edit
 ## Notes
-Comments for functions are written in English, Required customization are instructed in Japanese.
+Comments for functions are written in English, Required customization are instructed in Japanese.<br>
 Functionは英語、カスタム項は日本語で説明されている。
