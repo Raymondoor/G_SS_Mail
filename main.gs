@@ -4,7 +4,7 @@ const confirmSend = ['相手に通知する', 3];
 // [質問者の列番号, 回答してほしい人の列番号,　質問内容の列番号]　（例：Aであれば1と入力）
 const messageColumns = [3, 4, 5];
 // "https://スプシのURL"
-const spsurl = "https://docs.google.com/spreadsheets/d/1LXzdezhchwxnX3mYNTLQCPNFG8mpVHAI5Jm3wcL7mlE/edit?gid=1326649151#gid=1326649151"
+const spsurl = ""
 
 // こっから先は勝手にやってくれるから無視でOK
 var sheet = SpreadsheetApp.getActiveSheet(); //Open Sheet
