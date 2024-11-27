@@ -23,4 +23,4 @@ Functionは英語、カスタム項は日本語で説明されている。
 5. Modify head of .gs to fit your ss
 
 ## Example
-link. I'll provide it later.
+[G_SS_Mail_Sample](https://docs.google.com/spreadsheets/d/1rctHZ18w8yCps6WYmRaz1jUO38pSsQg42n3xHkMT4-w/edit?usp=sharing)
