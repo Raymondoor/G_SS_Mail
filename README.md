@@ -19,8 +19,8 @@ Functionは英語、カスタム項は日本語で説明されている。
 1. Add Script to ss(Spread Sheet)
 2. make a new .gs file and place the code in main.gs
 3. if not exist, add MailApp OAuth link
-4. Add new trigger according to (Trigger)[https://github.com/Raymondoor/G_SS_Mail/edit/main/README.md#Trigger]
+4. Add new trigger according to [Trigger](https://github.com/Raymondoor/G_SS_Mail?tab=readme-ov-file#trigger)
 5. Modify head of .gs to fit your ss
 
 ## Example
-link
+link. I'll provide it later.
