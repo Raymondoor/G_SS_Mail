@@ -13,18 +13,7 @@ var currentCell;
 function submit(e) {
     fetchCellCoord(e);
 }
-/*
-function showAuthorizationDialog() {
-  var html = HtmlService.createHtmlOutputFromFile('auth');
-  SpreadsheetApp.getUi().showModalDialog(html, 'Authorize');
-}
-function onOpen() {
-  var ui = SpreadsheetApp.getUi();
-  ui.createMenu('Custom Tools')
-    .addItem('Authorize Script', 'showAuthorizationDialog')
-    .addToUi();
-}
-*/
+
 function fetchCellCoord(e) {
   // var sheet = SpreadsheetApp.getActiveSheet(); //Open Sheet
   currentCell = e.range; // Use e.range to get the edited cell
