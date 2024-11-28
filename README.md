@@ -4,7 +4,7 @@ edit .gs file according to the comments. Rows, Columns, and more.<br>
 
 ## Trigger
 * Function<br>
-    fetchCellCoord
+    submit
 * Run on Deploy<br>
     Head
 * Source<br>
